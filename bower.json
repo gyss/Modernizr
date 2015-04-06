@@ -1,0 +1,8 @@
+{
+  "name": "modernizr",
+  "version": "2.7.1",
+  "main": ["modernizr.js"],
+  "description": "",
+  "ignore": [],
+  "devDependencies": {}
+}
